@@ -1,0 +1,22 @@
+
+
+body {
+    background: black;
+    width: 350px;
+    padding: 15px;
+    border: none;
+    margin: none;
+}
+
+div {
+    
+    border-radius: 10px;
+    border: 2px solid;
+    height: 250px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
